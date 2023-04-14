@@ -1,4 +1,4 @@
-# Projeto Individual do Módulo 5
+# Projeto Individual do Módulo 5 - Resilia
 
 Criação de uma ferramenta no terminal que vai auxiliar desenvolvedores no dia a dia com CSS.
 
